@@ -1,4 +1,3 @@
-import './scss/styles.scss';
 
 function square(num: number): number {
   return num * num;

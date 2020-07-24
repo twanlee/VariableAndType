@@ -1,4 +1,3 @@
-import './scss/styles.scss';
 
 interface IUser {
   name: string;

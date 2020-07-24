@@ -1,4 +1,3 @@
-import './scss/styles.scss';
 
 const wait5Secs = new Promise((resolve, reject) => {
   setTimeout(() => {
